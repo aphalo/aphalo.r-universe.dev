@@ -1,0 +1,18 @@
+[
+    {
+        "package": "photobiology",
+        "url": "https://github.com/aphalo/photobiology"
+    },
+    {
+        "package": "ggspectra",
+        "url": "https://github.com/aphalo/ggaspectra"
+    },
+    {
+        "package": "rOmniDriver",
+        "url": "https://github.com/aphalo/goodpress"
+    },
+    {
+        "package": "ooaquire",
+        "url": "https://github.com/aphalo/ooacquire"
+    },
+]
