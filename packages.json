@@ -1,15 +1,63 @@
 [
     {
+        "package": "learnrbook",
+        "url": "https://github.com/aphalo/learnrbook"
+    },
+    {
+        "package": "ggpp",
+        "url": "https://github.com/aphalo/ggpp"
+    },
+    {
+        "package": "ggpmisc",
+        "url": "https://github.com/aphalo/ggpmisc"
+    },
+    {
+        "package": "gginnards",
+        "url": "https://github.com/aphalo/gginnards"
+    },
+    {
+        "package": "ggspectra",
+        "url": "https://github.com/aphalo/ggspectra"
+    },
+    {
         "package": "photobiology",
         "url": "https://github.com/aphalo/photobiology"
     },
     {
-        "package": "ggspectra",
-        "url": "https://github.com/aphalo/ggaspectra"
+        "package": "photobiologyFilters",
+        "url": "https://github.com/aphalo/photobiologyFilters"
+    },
+    {
+        "package": "photobiologyInOut",
+        "url": "https://github.com/aphalo/photobiologyInOut"
+    },
+    {
+        "package": "photobiologyLamps",
+        "url": "https://github.com/aphalo/photobiologyLamps"
+    },
+    {
+        "package": "photobiologyLEDs",
+        "url": "https://github.com/aphalo/photobiologyLEDs"
+    },
+    {
+        "package": "photobiologyPlants",
+        "url": "https://github.com/aphalo/photobiologyPlants"
+    },
+    {
+        "package": "photobiologySensors",
+        "url": "https://github.com/aphalo/photobiologySensors"
+    },
+    {
+        "package": "photobiologySun",
+        "url": "https://github.com/aphalo/photobiologySun"
+    },
+    {
+        "package": "photobiologyWavebands",
+        "url": "https://github.com/aphalo/photobiologyWavebands"
     },
     {
         "package": "rOmniDriver",
-        "url": "https://github.com/aphalo/goodpress"
+        "url": "https://github.com/aphalo/rOmniDriver"
     },
     {
         "package": "ooaquire",
