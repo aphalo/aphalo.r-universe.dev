@@ -1,7 +1,7 @@
 [
     {
         "package": "learnrbook",
-        "url": "https://github.com/aphalo/learnrbook"
+        "url": "https://github.com/aphalo/learnrbook-pkg"
     },
     {
         "package": "ggpp",
@@ -60,7 +60,7 @@
         "url": "https://github.com/aphalo/rOmniDriver"
     },
     {
-        "package": "ooaquire",
+        "package": "ooacquire",
         "url": "https://github.com/aphalo/ooacquire"
     }
 ]
