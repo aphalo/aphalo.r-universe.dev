@@ -62,5 +62,9 @@
     {
         "package": "ooacquire",
         "url": "https://github.com/aphalo/ooacquire"
+    },
+    {
+        "package": "yoctopuce",
+        "url": "https://github.com/aphalo/yoctopuce"
     }
 ]
