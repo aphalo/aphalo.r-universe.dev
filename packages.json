@@ -52,6 +52,10 @@
         "url": "https://github.com/aphalo/photobiologySun"
     },
     {
+        "package": "photobiologySunCalc",
+        "url": "https://github.com/aphalo/photobiologySunCalc"
+    },
+    {
         "package": "photobiologyWavebands",
         "url": "https://github.com/aphalo/photobiologyWavebands"
     },
