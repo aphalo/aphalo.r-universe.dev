@@ -72,7 +72,7 @@
         "url": "https://github.com/aphalo/yoctopuce"
     },
     {
-        "package": "reumetsat",
-        "url": "https://github.com/aphalo/reumetsat"
+        "package": "surfaceuv",
+        "url": "https://github.com/aphalo/surfaceuv"
     }
 ]
