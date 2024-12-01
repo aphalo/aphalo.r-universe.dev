@@ -52,10 +52,6 @@
         "url": "https://github.com/aphalo/photobiologySun"
     },
     {
-        "package": "photobiologySunCalc",
-        "url": "https://github.com/aphalo/photobiologySunCalc"
-    },
-    {
         "package": "photobiologyWavebands",
         "url": "https://github.com/aphalo/photobiologyWavebands"
     },
@@ -66,6 +62,10 @@
     {
         "package": "ooacquire",
         "url": "https://github.com/aphalo/ooacquire"
+    },
+    {
+        "package": "SunCalcMeeus",
+        "url": "https://github.com/aphalo/SunCalcMeeus"
     },
     {
         "package": "yoctopuce",
