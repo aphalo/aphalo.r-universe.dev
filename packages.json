@@ -68,8 +68,12 @@
         "url": "https://github.com/aphalo/SunCalcMeeus"
     },
     {
-        "package": "yoctopuce",
-        "url": "https://github.com/aphalo/yoctopuce"
+        "package": "rYoctoPuceAPI",
+        "url": "https://github.com/aphalo/rYoctoPuceAPI"
+    },
+    {
+        "package": "rYoctoPuceInOut",
+        "url": "https://github.com/aphalo/rYoctoPuceInOut"
     },
     {
         "package": "surfaceuv",
