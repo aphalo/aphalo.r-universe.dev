@@ -28,6 +28,10 @@
         "url": "https://github.com/aphalo/photobiologyFilters"
     },
     {
+        "package": "photobiologyFlecks",
+        "url": "https://github.com/aphalo/photobiologyFlecks"
+    },
+    {
         "package": "photobiologyInOut",
         "url": "https://github.com/aphalo/photobiologyInOut"
     },
